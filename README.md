@@ -8,5 +8,5 @@
 <a href="https://codepen.io/nathanmaia" target="#"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="nathanmaia" height="30" width="40" /></a>
 <a href="https://twitter.com/nahtanmaia" target="#"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nahtanmaia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nathanmaia" target="#"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nathanmaia" height="30" width="40" /></a>
-<a href="https://instagram.com/nahtanmaia" target="#"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nahtanmaia" height="30" width="40" /></a>
+<a href="https://instagram.com/nahtanmaia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nahtanmaia" height="30" width="40" /></a>
 </p>
