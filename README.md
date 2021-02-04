@@ -1,9 +1,9 @@
 <p align="center">
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahtansmaia&show_icons=true&locale=en" alt="nahtansmaia" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahtansmaia&show_icons=true&locale=en&layout=compact" alt="nahtansmaia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahtansmaia&show_icons=true&theme=dracula&locale=en" alt="nahtansmaia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahtansmaia&show_icons=true&locale=en&layout=compact&theme=dracula" alt="nahtansmaia" />
 </p>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center" color="blue">Connect with me:</h3>
 <p align="center">
   <a 
      href="https://twitter.com/nahtanmaia" 
