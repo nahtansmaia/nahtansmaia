@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   &nbsp;
   <img height='200' src="https://github-readme-stats.vercel.app/api?username=nahtansmaia&count_private=true&show_icons=true&theme=dracula&locale=en" alt="nahtansmaia" />
   <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs?username=nahtansmaia&count_private=true&show_icons=true&locale=en&layout=compact&theme=dracula" alt="nahtansmaia" />
