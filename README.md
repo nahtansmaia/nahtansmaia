@@ -1,7 +1,7 @@
 <p align="center">
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahtansmaia&count_private=true&show_icons=true&theme=dracula&locale=en" alt="nahtansmaia" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahtansmaia&count_private=true&show_icons=true&locale=en&layout=compact&theme=dracula" alt="nahtansmaia" />
+  <img height='200' align="center" src="https://github-readme-stats.vercel.app/api?username=nahtansmaia&count_private=true&show_icons=true&theme=dracula&locale=en" alt="nahtansmaia" />
+  <img height='200' align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahtansmaia&count_private=true&show_icons=true&locale=en&layout=compact&theme=dracula" alt="nahtansmaia" />
 </p>
 <h3 align="center" color="blue">Connect with me:</h3>
 <p align="center">
