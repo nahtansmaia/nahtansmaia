@@ -5,23 +5,8 @@
 </div>
 
 <h3 align="center" color="blue">Connect with me:</h3>
-<p align="center">
-  <a 
-     href="https://twitter.com/nahtanmaia" 
-     target="#">
-    <img align="center" 
-         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nahtanmaia" height="30" width="40" />
-  </a>
-  <a 
-     href="https://linkedin.com/in/nathanmaia" 
-     target="#">
-    <img align="center" 
-         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nathanmaia" height="30" width="40" />
-  </a>
-  <a 
-     href="https://instagram.com/nahtanmaia" 
-     target="#">
-    <img align="center" 
-         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nahtanmaia" height="30" width="40" />
-  </a>
-</p>
+
+<div align="center">
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Nathan%20Maia-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanmaia/)](https://www.linkedin.com/in/nathanmaia/)
+</div>
