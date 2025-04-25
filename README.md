@@ -7,6 +7,4 @@
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-Nathan%20Maia-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanmaia/)](https://www.linkedin.com/in/nathanmaia/)
-  
-</div>
-https://nahtan-s-maia.vercel.app/
+
